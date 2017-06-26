@@ -1,0 +1,7 @@
+{
+  "presets": [["babili", {
+    "mangle": {
+      "topLevel": true
+    }
+  }]]
+}
