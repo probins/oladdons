@@ -3,8 +3,8 @@
  * on proj4 and then sets the transforms on ol.proj
  */
 
-import proj from 'https://probins.gitlab.io/oles/dist/proj.js';
-import Projection from 'https://probins.gitlab.io/oles/dist/proj/projection.js';
+import proj from 'https://probins.github.io/oles/dist/proj.js';
+import Projection from 'https://probins.github.io/oles/dist/proj/projection.js';
 import proj4 from '../ext/proj4.js';
 
 // FIXME should be optional

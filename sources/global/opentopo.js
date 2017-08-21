@@ -2,7 +2,7 @@
  * OpenTopoMap http://opentopomap.org
  * EPSG:3857
  */
-import XYZ from 'https://probins.gitlab.io/oles/dist/source/xyz.js';
+import XYZ from 'https://probins.github.io/oles/dist/source/xyz.js';
 
 class OpenTopo extends XYZ {
   constructor() {

@@ -5,8 +5,8 @@
  * Screen position determined by css in html file.
  */
 
-import MousePosition from 'https://probins.gitlab.io/oles/dist/control/mouseposition.js';
-import olcoordinate from 'https://probins.gitlab.io/oles/dist/coordinate.js';
+import MousePosition from 'https://probins.github.io/oles/dist/control/mouseposition.js';
+import olcoordinate from 'https://probins.github.io/oles/dist/coordinate.js';
 
 // import template (exported string)
 import tpl from './cursorpositions.htm.js';

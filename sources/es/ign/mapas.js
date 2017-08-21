@@ -4,8 +4,8 @@
  * EPSG:25830
  */
 
-import WMTS from 'https://probins.gitlab.io/oles/dist/source/wmts.js';
-import Tilegrid from 'https://probins.gitlab.io/oles/dist/tilegrid/wmts.js';
+import WMTS from 'https://probins.github.io/oles/dist/source/wmts.js';
+import Tilegrid from 'https://probins.github.io/oles/dist/tilegrid/wmts.js';
 import projection from '../../../projections/25830.js';
 
 class IGNMapas extends WMTS {
