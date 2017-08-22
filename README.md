@@ -1,7 +1,7 @@
 ### Modules extending OL code
 
 A library/registry of addon modules for OL. Consists of:
-* `ext`: external software as ES module: a full build of proj4js
+* `ext`: external software as ES module: a full build of proj4js. Can be deleted once this is available upstream
 * `projections`: standardised way of using proj4js in OL as a module rather than a global
 * `sources`: tile-server and other sources, both global in scope and local, organised by country code; local ones generally use a local projection. These export a class.
 * `widgets`: additional widgets/components which can be added as needed. These export one or more instances. Pending agreement on [HTML Modules](https://github.com/w3c/webcomponents/issues/645), any associated html file is wrapped in an export literal and stored in `*.htm.js`, so it can be imported as code.
