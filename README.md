@@ -9,4 +9,4 @@ A library/registry of addon modules for OL. Consists of:
 `ext/proj4` is available both minified and unminified; the others are at present unminified. 
 
 #### Use
-Can be imported into your apps using `rawgit.com`. See https://github.com/probins/olexamples for some usage examples. ATM, this is experimental and there are no releases and so no CDN files. Once this library is more stable, a specific version of modules can be imported from `cdn.rawgit.com`.
+Can be imported into your apps using `jsdelivr.net`. See https://github.com/probins/olexamples for some usage examples. ATM, this is experimental and there are no releases and so no CDN files. Once this library is more stable, a specific version of modules can be imported from `cdn.jsdelivr.net`.
